@@ -346,6 +346,14 @@
       "name": "Wrapped SOL",
       "symbol": "wSOL",
       "logoURI": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/SOL_wh.png"
+    },
+    {
+      "chainId": 245022934,
+      "address": "0x7Abd999a677C7D4B4449AeA03C357D6BE1072ddb",
+      "decimals": 18,
+      "name": "Ferrum Network",
+      "symbol": "FRM",
+      "logoURI": "https://www.bscscan.com/token/images/ferrumnetwork_32.png"
     }
   ],
   "version": {
