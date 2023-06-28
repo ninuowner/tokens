@@ -186,6 +186,14 @@
       "symbol": "wBAL",
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xba100000625a3754423978a60c9317c58a424e3D/logo.png"
     },
+    {
+      "chainId": 245022926,
+      "address": "0x7Abd999a677C7D4B4449AeA03C357D6BE1072ddb",
+      "decimals": 18,
+      "name": "Ferrum Network",
+      "symbol": "FRM",
+      "logoURI": "https://www.bscscan.com/token/images/ferrumnetwork_32.png"
+    },
 
     {
       "chainId": 245022940,
