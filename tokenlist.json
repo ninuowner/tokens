@@ -141,7 +141,7 @@
       "decimals": 18,
       "name": "Wrapped NEON",
       "symbol": "WNEON",
-      "logoURI": "https://raw.githubusercontent.com/moraswap/tokens/master/blockchains/neon/assets/0xf1041596da0499c3438e3B1Eb7b95354C6Aed1f5/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/moraswap/tokens/master/blockchains/neon_devnet/assets/0xf1041596da0499c3438e3B1Eb7b95354C6Aed1f5/logo.png"
     },
     {
       "chainId": 245022926,
@@ -149,7 +149,7 @@
       "decimals": 18,
       "name": "Mora",
       "symbol": "MORA",
-      "logoURI": "https://raw.githubusercontent.com/moraswap/tokens/master/blockchains/neon/assets/0x6dcDD1620Ce77B595E6490701416f6Dbf20D2f67/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/moraswap/tokens/master/blockchains/neon_devnet/assets/0x6dcDD1620Ce77B595E6490701416f6Dbf20D2f67/logo.png"
     },
     {
       "chainId": 245022926,
@@ -157,7 +157,15 @@
       "decimals": 6,
       "name": "MoraTest USD Coin",
       "symbol": "mUSDC",
-      "logoURI": "https://raw.githubusercontent.com/moraswap/tokens/master/blockchains/neon/assets/0x6Ab1F83c0429A1322D7ECDFdDf54CE6D179d911f/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/moraswap/tokens/master/blockchains/neon_devnet/assets/0x6Ab1F83c0429A1322D7ECDFdDf54CE6D179d911f/logo.png"
+    },
+    {
+      "chainId": 245022926,
+      "address": "0xB8fC542Cfe60aAc349646a7e266DfCd6E02DB90d",
+      "decimals": 9,
+      "name": "MoraTest Wrapped SOL",
+      "symbol": "mWSOL",
+      "logoURI": "https://raw.githubusercontent.com/neonlabsorg/token-list/master/assets/solana-wsol-logo.svg"
     },
     {
       "chainId": 245022926,
