@@ -163,7 +163,7 @@
       "chainId": 245022926,
       "address": "0xB8fC542Cfe60aAc349646a7e266DfCd6E02DB90d",
       "decimals": 9,
-      "name": "MoraTest Wrapped SOL",
+      "name": "MoraTest Wrapped SOL",
       "symbol": "mWSOL",
       "logoURI": "https://raw.githubusercontent.com/neonlabsorg/token-list/master/assets/solana-wsol-logo.svg"
     },
