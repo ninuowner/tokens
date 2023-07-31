@@ -407,6 +407,14 @@
       "name": "Wrapped Neon",
       "symbol": "wNEON",
       "logoURI": "https://raw.githubusercontent.com/neonlabsorg/token-list/master/assets/wrapped-neon-logo.svg"
+    },
+    {
+      "chainId": 245022934,
+      "address": "0x2043191e10a2A4b4601F5123D6C94E000b5d915F",
+      "decimals": 18,
+      "name": "Mora",
+      "symbol": "MORA",
+      "logoURI": "https://raw.githubusercontent.com/moraswap/tokens/master/blockchains/neon/assets/0x2043191e10a2A4b4601F5123D6C94E000b5d915F/logo.png"
     }
   ],
   "version": {
